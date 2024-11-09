@@ -14,7 +14,7 @@
 
 # Product Makefiles
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/oneplus9r/aospa_oneplus9r.mk \
+
     $(LOCAL_DIR)/alioth/aospa_alioth.mk \
     $(LOCAL_DIR)/apollo/aospa_apollo.mk \
     $(LOCAL_DIR)/bitra/aospa_bitra.mk \
@@ -36,6 +36,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/oneplus7t/aospa_oneplus7t.mk \
     $(LOCAL_DIR)/oneplus7tpro/aospa_oneplus7tpro.mk \
     $(LOCAL_DIR)/oneplus9/aospa_oneplus9.mk \
+    $(LOCAL_DIR)/oneplus9r/aospa_oneplus9r.mk \
     $(LOCAL_DIR)/pdx234/aospa_pdx234.mk \
     $(LOCAL_DIR)/phoenix/aospa_phoenix.mk \
     $(LOCAL_DIR)/phone1/aospa_phone1.mk \
