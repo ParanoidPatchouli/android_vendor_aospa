@@ -14,6 +14,7 @@
 
 # Product Makefiles
 PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/oneplus9r/aospa_oneplus9r.mk \
     $(LOCAL_DIR)/alioth/aospa_alioth.mk \
     $(LOCAL_DIR)/apollo/aospa_apollo.mk \
     $(LOCAL_DIR)/bitra/aospa_bitra.mk \
@@ -69,6 +70,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_oneplus7t-userdebug \
     aospa_oneplus7tpro-userdebug \
     aospa_oneplus9-userdebug \
+    aospa_oneplus9r-userdebug \
     aospa_pdx234-userdebug \
     aospa_phoenix-userdebug \
     aospa_phone1-userdebug \
